@@ -3,6 +3,8 @@
 This project investigates the **factors that drive book success** — in terms of both **sales volume** and **critical reception** — using a real-world dataset from Kaggle:
 🔗 [Books Sales and Ratings Dataset](https://www.kaggle.com/datasets/thedevastator/books-sales-and-ratings)
 
+Main Analysis Notebook: book-analysis2.ipynb
+
 ---
 
 ## 🔍 Project Overview
